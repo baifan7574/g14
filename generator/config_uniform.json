@@ -14,7 +14,7 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "photo-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nsymmetrical face, soft smooth skin, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nrealistic facial expression, subtle makeup, soft eyeliner, natural blush, \nperfect lighting balance, professional photography style, \nbokeh background, depth of field, cinematic color grading, \nsoft studio light, rim light on hair, warm skin tone, \nsharp focus, award-winning portrait photo, aesthetician uniform, uniform aesthetic name, muted cinematic tones, natural loose hair, lace trim outfit, cool film grain, natural skin tone, sensual vibe, elegant posture, tasteful composition",
+  "prompt": "1girl, solo, single subject, one woman only\nphoto-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nunique facial features, subtle asymmetry allowed, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nnatural expression, soft makeup, \nsoft studio light, rim light on hair, warm skin tone, \nprofessional photography style, depth of field, cinematic color grading, \nsharp focus, award-winning portrait photo, uniform style, uniform fashions auburn ny, aesthetic uniform school, uniform aesthetic name, vintage faded look, half up half down, deep v neckline, cool film grain, natural skin tone, sensual vibe, elegant posture, tasteful composition",
   "negative_prompt": "cartoon, blur, bad anatomy, unrealistic, watermark, nsfw, cropped face, distorted",
   "output_dir": "../uniform",
   "category": "uniform"
